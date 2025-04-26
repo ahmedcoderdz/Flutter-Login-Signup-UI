@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029007371381",
+    "project_id": "login-tp-8cbfc",
+    "storage_bucket": "login-tp-8cbfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029007371381:android:cbfded21c969c1c5a51c3c",
+        "android_client_info": {
+          "package_name": "com.example.tp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PF0of6pntl9QPJatmlIFhegJooEdRng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
